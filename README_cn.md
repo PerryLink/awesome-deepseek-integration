@@ -4,7 +4,7 @@
 <img width="1280" alt="Awesome DeepSeek Integrations" src="docs/Awesome DeepSeek Integrations.png">
 </p>
 
-# DeepSeek 实用集成 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+# DeepSeek 实用集成 ![Awesome](https://awesome.re/badge.svg)
 
 将 DeepSeek 大模型能力轻松接入各类软件。访问 [DeepSeek 开放平台](https://platform.deepseek.com/) 来获取您的 API key。
 

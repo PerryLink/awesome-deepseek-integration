@@ -4,7 +4,7 @@
 <img width="1000px" alt="Awesome DeepSeek Integrations" src="docs/Awesome DeepSeek Integrations.png">
 </p>
 
-# Awesome DeepSeek Integrations ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+# Awesome DeepSeek Integrations ![Awesome](https://awesome.re/badge.svg)
 
 DeepSeek API を人気のソフトウェアに統合します。API キーを取得するには、[DeepSeek Open Platform](https://platform.deepseek.com/)にアクセスしてください。
 

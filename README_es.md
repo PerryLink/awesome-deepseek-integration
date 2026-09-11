@@ -4,7 +4,7 @@
 <img width="1000px" alt="Integraciones Asombrosas de DeepSeek" src="docs/Awesome DeepSeek Integrations.png">
 </p>
 
-# Integraciones Asombrosas de DeepSeek ![Destacado](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+# Integraciones Asombrosas de DeepSeek ![Destacado](https://awesome.re/badge.svg)
 
 Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abierta de DeepSeek](https://platform.deepseek.com/) para obtener una clave API.
 
